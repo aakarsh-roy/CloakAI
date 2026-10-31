@@ -50,7 +50,7 @@ const SECRET_PATTERNS: Array<{
   {
     ruleId: 'secret-assigned-credential',
     name: 'Assigned Credential / Password',
-    regex: /\b(?:password|passwd|api_?key|secret(?:_?key)?|access_?token|auth_?token|client_?secret)\s*[:=]\s*["']([^"'\r\n]{4,})["']/gi,
+    regex: /\b(?:[a-zA-Z0-9_]*_)?(?:password|passwd|api_?key|secret(?:_?key)?|access_?token|auth_?token|client_?secret)\s*[:=]\s*["']([^"'\r\n]{4,})["']/gi,
     confidence: 'high',
     valueExtractor: (match) => ({
       value: match[1],
