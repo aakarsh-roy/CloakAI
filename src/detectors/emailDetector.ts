@@ -31,3 +31,4 @@ export const emailDetector: Detector = {
     return findings;
   },
 };
+

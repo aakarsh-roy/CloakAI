@@ -71,3 +71,4 @@ export const identifierDetector: Detector = {
     return findings;
   },
 };
+

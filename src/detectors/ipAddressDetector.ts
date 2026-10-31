@@ -68,3 +68,4 @@ export const ipAddressDetector: Detector = {
     return findings;
   },
 };
+

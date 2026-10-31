@@ -122,3 +122,4 @@ export const WorkspacePage: React.FC<WorkspacePageProps> = ({ settings }) => {
     </div>
   );
 };
+

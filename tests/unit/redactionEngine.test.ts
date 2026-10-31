@@ -141,3 +141,4 @@ describe('Redaction & Overlap Engine Unit Tests', () => {
     expect(resolved[0].category).toBe('secret');
   });
 });
+

@@ -163,3 +163,4 @@ export const FindingsList: React.FC<FindingsListProps> = ({
     </div>
   );
 };
+

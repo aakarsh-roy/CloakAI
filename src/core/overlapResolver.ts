@@ -68,3 +68,4 @@ export function resolveOverlaps(findings: Finding[]): Finding[] {
 
   return nonOverlapping.sort((a, b) => a.start - b.start);
 }
+

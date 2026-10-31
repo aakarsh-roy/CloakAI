@@ -39,3 +39,4 @@ When a user clears a prompt or closes the tab:
 If you discover a security issue or vulnerability in CloakAI:
 - Please report it responsibly by contacting the maintainers or opening a private security advisory on GitHub.
 - We request that you provide reasonable time to address reported issues before public disclosure.
+

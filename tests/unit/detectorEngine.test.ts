@@ -33,3 +33,4 @@ describe('Detector Engine Integration Tests', () => {
     expect(result.scanDurationMs).toBe(0);
   });
 });
+

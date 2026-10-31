@@ -66,3 +66,4 @@ export class PlaceholderManager {
     this.categoryCounters.clear();
   }
 }
+

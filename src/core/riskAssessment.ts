@@ -70,3 +70,4 @@ export function assessPrivacyRisk(findings: Finding[]): RiskAssessment {
       'CloakAI evaluates prompts using deterministic client-side pattern rules. It cannot detect all forms of sensitive data, novel secrets, or subtle deanonymizing context.',
   };
 }
+

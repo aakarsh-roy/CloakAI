@@ -30,3 +30,4 @@ npm run build
 - Run `npm test` and `npm run build` prior to submitting changes.
 - Ensure all tests pass with zero errors.
 - Document any new detection categories in `README.md` and `PRIVACY.md`.
+

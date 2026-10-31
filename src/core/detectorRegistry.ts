@@ -46,3 +46,4 @@ export function getCategoryDisplayName(category: FindingCategory): string {
       return category;
   }
 }
+

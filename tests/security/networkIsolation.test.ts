@@ -70,3 +70,4 @@ describe('Security: Multi-Vector Network Isolation', () => {
     expect(eventSourceSpy).not.toHaveBeenCalled();
   });
 });
+

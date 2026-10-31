@@ -61,3 +61,4 @@ export interface RedactionResult {
   appliedFindings: Finding[];
   excludedCount: number;
 }
+

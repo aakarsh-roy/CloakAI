@@ -53,3 +53,4 @@ describe('Risk Assessment Unit Tests', () => {
     expect(assessment.categoryCounts.email).toBe(1);
   });
 });
+

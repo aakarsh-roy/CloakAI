@@ -57,3 +57,4 @@ export function runDetection(text: string, settings?: PrivacySettings): Detectio
     isTruncated,
   };
 }
+

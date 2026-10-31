@@ -47,3 +47,4 @@ export const customKeywordDetector: Detector = {
     return findings;
   },
 };
+

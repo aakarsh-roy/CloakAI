@@ -55,3 +55,4 @@ Automated pattern matching cannot guarantee absolute anonymity:
 - Unique situational details in a prompt may still be deanonymizing even if direct identifiers are removed.
 
 **Always review the sanitized preview before sharing it with an AI model.**
+

@@ -84,3 +84,4 @@ export const RiskAssessmentCard: React.FC<RiskAssessmentCardProps> = ({ assessme
     </div>
   );
 };
+
